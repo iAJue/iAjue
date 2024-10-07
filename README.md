@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ✨✨
 
 <div>
-    <img src="https://count.getloli.com/get/@codeacg.github.readme?theme=iAjue" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+    <img src="https://count.getloli.com/get/@iAJue.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
 ![](https://cdn.jsdelivr.net/gh/codeacg/codeacg@main/assets/github-contribution-grid-snake.svg)
