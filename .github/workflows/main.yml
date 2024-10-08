@@ -14,3 +14,10 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROFILE_VIEWS: "false"
+          LOCALE: "bo_CN"
+          COMMIT_MESSAGE: "我又在写代码了"
+          COMMIT_USERNAME: "MoeJue"
+          TIMEZONE: "Asia/Shanghai"
+          SHOW_LINES_OF_CODE: "false"
+          UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
