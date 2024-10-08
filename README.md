@@ -58,7 +58,80 @@ Here are some ideas to get you started:
 
 #### Day
 
-<!--START_SECTION:waka--> <!--END_SECTION:waka--> 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 50.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 25 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 37 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                27 commits          ████████░░░░░░░░░░░░░░░░░   30.00 % 
+🌆 Daytime                33 commits          █████████░░░░░░░░░░░░░░░░   36.67 % 
+🌃 Evening                30 commits          ████████░░░░░░░░░░░░░░░░░   33.33 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   24 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Tuesday                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                18 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
+Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Saturday                 9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Sunday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      5 repos             ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+CSS                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/iAJue/iAJue/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/10/2024 12:39:03 UTC
+<!--END_SECTION:waka--> 
 
 #### My Github Activity Graph
 
