@@ -18,6 +18,7 @@ jobs:
           LOCALE: "bo_CN"
           COMMIT_MESSAGE: "我又在写代码了"
           COMMIT_USERNAME: "MoeJue"
-          TIMEZONE: "Asia/Shanghai"
+          SHOW_TIMEZONE: "Asia/Shanghai"
           SHOW_LINES_OF_CODE: "false"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          SHOW_SHORT_INFO: "false"
