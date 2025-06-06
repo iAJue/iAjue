@@ -166,10 +166,6 @@ Python                   2 repos             ██░░░░░░░░░�
 	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/github.webp">
 </div>
 
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/icon.png" /></div>
-
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
