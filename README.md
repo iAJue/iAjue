@@ -51,8 +51,8 @@ Here are some ideas to get you started:
 #### My Coding Project And Language
 
 <div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=iAjue&theme=calm&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAjue&theme=calm&langs_count=6&layout=compact" />
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=iAjue&theme=tokyonight&show_icons=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAjue&theme=tokyonight&langs_count=6&layout=compact" />
 </div>
 
 

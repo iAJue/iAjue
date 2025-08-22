@@ -21,5 +21,6 @@ jobs:
           SHOW_TIMEZONE: "Asia/Shanghai"
           SHOW_LINES_OF_CODE: "false"
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M:%S"
+          SHOW_LOC_CHART: "false"
           # SHOW_SHORT_INFO: "false"
           COMMIT_EMAIL: "32321958+iAJue@users.noreply.github.com"
