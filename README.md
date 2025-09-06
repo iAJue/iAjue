@@ -45,7 +45,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/iAJue"><img src="https://img.shields.io/badge/GitHub-@iAJue-000000.svg?logo=GitHub" alt="GitHub" target="_blank"></a>
   <a href="https://www.zhihu.com/people/iAjue" target="_blank" ><img src="https://img.shields.io/badge/知乎-@iAjue-000000.svg?style=flat-square&amp;logo=Zhihu" alt="知乎"/></a>
   <a href="https://space.bilibili.com/142741587" target="_blank"><img src="https://img.shields.io/badge/B站-@阿珏酱-000000.svg?style=flat-square&amp;logo=Bilibili" alt="B站"/></a>
-  <a href="https://jq.qq.com/?_wv=1027&k=5cvR0GN" target="_blank"><img src="https://img.shields.io/badge/QQ-@某社区官方交流群-000000.svg?style=flat-square&amp;logo=Tencent" alt="QQ"/></a>
+  <a href="https://qm.qq.com/q/WuPkjV35KM" target="_blank"><img src="https://img.shields.io/badge/QQ-@某社区官方交流群-000000.svg?style=flat-square&amp;logo=Tencent" alt="QQ"/></a>
 
 
 #### My Coding Project And Language
