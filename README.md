@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<img align='right' src='./assets/2.png' width='180px'>
+<img align='right' src='./assets/2.png' width='400px'>
 
 <div>
     <img src="https://count.getloli.com/get/@iAJue.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
@@ -65,7 +65,6 @@ Here are some ideas to get you started:
 
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=iAjue&theme=algolia&show_icons=true)
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iAjue&theme=algolia)
 
 
 
