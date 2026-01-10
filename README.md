@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 
-<img align='right' src='./assets/2.png' width='350px'>
 
 <div>
     <img src="https://count.getloli.com/get/@iAJue.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
 
+<img align='right' src='./assets/2.png' width='300px'>
 
 #### Platforms
 [![](https://img.shields.io/badge/macOS-Ventura-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
