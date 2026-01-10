@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<img align='right' src='./assets/2.png' width='180px'>
+
 <div>
     <img src="https://count.getloli.com/get/@iAJue.github.readme?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
 </div>
@@ -30,11 +33,20 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net/)
+[![](https://img.shields.io/badge/-Composer-885630?style=flat-square&logo=composer&logoColor=white)](https://getcomposer.org/)
 [![](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/vue.js-v3-00acd7?logo=vue.js&logoColor=00acd7)](https://vue.js/)
+[![](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![](https://img.shields.io/badge/node.js-v20.16.0-00acd7?logo=node.js&logoColor=00acd7)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![](https://img.shields.io/badge/Python-3.11-326c9c?logo=Python&logoColor=326c9c)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![](https://img.shields.io/badge/-React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)](https://soliditylang.org/)
+[![](https://img.shields.io/badge/-Ethers%20v6-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)](https://docs.ethers.org/v6/)
+[![](https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=black)](https://brew.sh/)
 
 ##### Sites
 
@@ -50,10 +62,11 @@ Here are some ideas to get you started:
 
 #### My Coding Project And Language
 
-<div>
-    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=iAjue&theme=tokyonight&show_icons=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iAjue&theme=tokyonight&langs_count=6&layout=compact" />
-</div>
+
+
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=iAjue&theme=algolia&show_icons=true)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak?username=iAjue&theme=algolia)
+
 
 
 #### 我没有在摸鱼
@@ -137,7 +150,7 @@ TypeScript               4 repos             ██░░░░░░░░░�
 #### My Github Activity Graph
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+<!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
 
 <!-- svg -->
 <div>
@@ -166,5 +179,4 @@ TypeScript               4 repos             ██░░░░░░░░░�
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
-[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
 
