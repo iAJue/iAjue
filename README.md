@@ -147,7 +147,6 @@ TypeScript               4 repos             ██░░░░░░░░░�
  Last Updated on 2026-01-11 20:25:26 UTC
 <!--END_SECTION:waka--> 
 
-#### My Github Activity Graph
 
 <!-- programming tool icon 编程工具图标 -->
 <!-- <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br> -->
