@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 #### Platforms
 [![](https://img.shields.io/badge/macOS-Ventura-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/iPhone%2015-Pro%20Max-999999?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
 [![](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-10)
 [![](https://img.shields.io/badge/K60-Ultra-999999?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.xiaomi.com/)
 
