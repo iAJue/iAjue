@@ -169,13 +169,14 @@ TypeScript               2 repos             █░░░░░░░░░░�
 </div>
 <!-- gif -->
 <div>
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/html.webp">
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/cssgif.webp">
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/vscode.webp">
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/python.webp">
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/js.webp">
-	<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/github.webp">
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/html.webp" alt="icon" style="width: 100px; height: 100px;" />
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/cssgif.webp" alt="icon" style="width: 100px; height: 100px;" />
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/vscode.webp" alt="icon" style="width: 100px; height: 100px;" />
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/python.webp" alt="icon" style="width: 100px; height: 100px;" />
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/js.webp" alt="icon" style="width: 100px; height: 100px;" /> 
+	<img src="https://cdn.jsdelivr.net/gh/codeacg/codeacg/assets/github.webp" alt="icon" style="width: 100px; height: 100px;" />
 </div>
+
 
 <!--彩虹分割线--> 
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
