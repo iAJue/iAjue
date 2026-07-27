@@ -72,13 +72,15 @@ Here are some ideas to get you started:
 #### 我没有在摸鱼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C687%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C629%20hrs%209%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-293%20hrs%202%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 871.5 kB GitHub 存储空间 
  > 
-> 🏆 884 个贡献，在 2026 年
+> 🏆 887 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -89,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     610 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-🌆 白天                     918 commits         ██████████░░░░░░░░░░░░░░░   38.73 % 
-🌃 傍晚                     299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+🌞 早晨                     611 commits         ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
+🌆 白天                     919 commits         ██████████░░░░░░░░░░░░░░░   38.74 % 
+🌃 傍晚                     299 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-星期二                      344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-星期三                      333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-星期四                      354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-星期五                      319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-星期六                      381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
-星期日                      292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+星期一                      349 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+星期二                      344 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+星期三                      333 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+星期四                      354 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+星期五                      319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+星期六                      381 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+星期日                      292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
 ```
 
 
@@ -111,40 +113,63 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Vue                      9 hrs 47 mins       ██████████████░░░░░░░░░░░   54.59 % 
-Markdown                 3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-PHP                      1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Vue                      9 hrs 36 mins       █████████████░░░░░░░░░░░░   51.89 % 
+Markdown                 2 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+PHP                      1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+JavaScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+SQL                      43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
 
 🔥 编辑器: 
-VS Code                  17 hrs 55 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-dfc_WeChat               10 hrs 12 mins      ██████████████░░░░░░░░░░░   56.90 % 
-MoeKoeMusic              2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-test                     1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-MoeKoeMusic-mobile       1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
-TuanGo                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+dfc_WeChat               9 hrs 27 mins       █████████████░░░░░░░░░░░░   51.08 % 
+MoeKoeMusic              3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+ThirdApi                 2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+MoeKoeMusic-mobile       1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+dfb_WeChat               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
 
 💻 操作系统: 
-Windows                  17 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 8 hrs 33 mins (46.16%)
+
+✍️ 2,093 lines written by AI, 303 lines written by hand (87.35% AI-written)
+
+🔤 33,610,268 Input Tokens, 343,054 Output Tokens
+
+💵 $153.94 Estimated AI Cost This Week
+
+🧠 16 AI Sessions, 202 AI Prompts
+
+GPT                      2,179 lines         ██████████████████████░░░   87.90 % 
+Fable                    300 lines           ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.35% of written lines came from AI
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 21.97% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
 
 ```text
-JavaScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+JavaScript               18 repos            ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+HTML                     12 repos            █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Vue                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+PHP                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 2026-07-26 23:05:43 UTC
+ Last Updated on 2026-07-27 23:40:17 UTC
 <!--END_SECTION:waka--> 
 
 
