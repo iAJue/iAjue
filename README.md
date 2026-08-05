@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 #### 我没有在摸鱼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C649%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-302%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2055%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 877.8 kB GitHub 存储空间 
  > 
-> 🏆 905 个贡献，在 2026 年
+> 🏆 906 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     619 commits         ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+🌞 早晨                     620 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
 🌆 白天                     926 commits         ██████████░░░░░░░░░░░░░░░   38.68 % 
-🌃 傍晚                     306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+🌃 傍晚                     305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
 ```
 📅 **星期六 时的我最有干劲** 
@@ -101,10 +101,10 @@ Here are some ideas to get you started:
 ```text
 星期一                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 星期二                      347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-星期三                      334 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+星期三                      335 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
 星期四                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 星期五                      320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-星期六                      393 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+星期六                      392 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 星期日                      296 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
 ```
 
@@ -113,50 +113,50 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Vue                      6 hrs 59 mins       ███████████████░░░░░░░░░░   59.57 % 
-JavaScript               1 hr 55 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-HTML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
-JSON                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Vue                      4 hrs 47 mins       █████████████░░░░░░░░░░░░   50.70 % 
+JavaScript               1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+HTML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 🔥 编辑器: 
-VS Code                  11 hrs 42 mins      █████████████████████████   99.76 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  9 hrs 24 mins       █████████████████████████   99.70 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 项目: 
-dfc_WeChat               4 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
-MoeKoeMusic              3 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-tes                      1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-dfb_WeChat               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-api                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
+dfc_WeChat               3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.62 % 
+MoeKoeMusic              1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+tes                      1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+dfb_WeChat               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+api                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 
 💻 操作系统: 
-Windows                  8 hrs 7 mins        █████████████████░░░░░░░░   69.25 % 
-Mac                      3 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   30.75 % 
+Windows                  5 hrs 49 mins       ███████████████░░░░░░░░░░   61.76 % 
+Mac                      3 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   38.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (60.69%)
+⏱ AI Coding Time: 5 hrs 50 mins (61.91%)
 
-✍️ 4,098 lines written by AI, 51 lines written by hand (98.77% AI-written)
+✍️ 3,051 lines written by AI, 46 lines written by hand (98.51% AI-written)
 
-🔤 17,220,159 Input Tokens, 169,348 Output Tokens
+🔤 10,691,500 Input Tokens, 116,659 Output Tokens
 
-💵 $70.10 Estimated AI Cost This Week
+💵 $35.88 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 43 AI Prompts
+🧠 8 AI Sessions, 33 AI Prompts
 
-Fable                    3,459 lines         ███████████████████░░░░░░   74.98 % 
-GPT                      1,151 lines         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Fable                    2,924 lines         ███████████████████████░░   93.39 % 
+GPT                      204 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+Claude-Code              3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.77% of written lines came from AI
-📝 Concise Prompter — average 204 characters per prompt
+🤖 AI-Driven — 98.51% of written lines came from AI
+📝 Concise Prompter — average 222 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 6.11% of changed lines were hand-edited
+🚀 High AI Trust — 7.4% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -172,7 +172,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-05 00:03:35 UTC
+ Last Updated on 2026-08-05 23:52:01 UTC
 <!--END_SECTION:waka--> 
 
 
