@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 895.7 kB GitHub 存储空间 
+> 📦  使用了 896.1 kB GitHub 存储空间 
  > 
-> 🏆 944 个贡献，在 2026 年
+> 🏆 945 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     631 commits         ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌆 白天                     944 commits         ██████████░░░░░░░░░░░░░░░   38.85 % 
-🌃 傍晚                     312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+🌞 早晨                     636 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌆 白天                     940 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
+🌃 傍晚                     314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-星期二                      348 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-星期三                      336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-星期四                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-星期五                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-星期六                      401 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-星期日                      315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+星期一                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+星期二                      348 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+星期三                      336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+星期四                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+星期五                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+星期六                      399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+星期日                      315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
 ```
 
 
@@ -113,31 +113,32 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Vue                      1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.52 % 
-PHP                      53 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-JSON                     48 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Vue                      1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+PHP                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 59 mins       ██████████████████░░░░░░░   73.00 % 
-Claude Code              1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+VS Code                  4 hrs 2 mins        ████████████████████░░░░░   78.46 % 
+Claude Code              1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 项目: 
-dfc_mp_wx                2 hrs 45 mins       █████████████████░░░░░░░░   66.96 % 
-ThirdApi                 1 hr 21 mins        ████████░░░░░░░░░░░░░░░░░   33.04 % 
+dfc_mp_wx                2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.42 % 
+ThirdApi                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Unknown Project          1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
 
 💻 操作系统: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (68.21%)
+⏱ AI Coding Time: 2 hrs 48 mins (54.42%)
 
-✍️ 157 lines written by AI, 28 lines written by hand (84.86% AI-written)
+✍️ 157 lines written by AI, 892 lines written by hand (14.97% AI-written)
 
 🔤 2,061,314 Input Tokens, 50,165 Output Tokens
 
@@ -151,10 +152,10 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.86% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.97% of written lines came from AI
 📝 Concise Prompter — average 485 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.15% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.64% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -170,7 +171,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-16 22:23:33 UTC
+ Last Updated on 2026-08-17 23:15:09 UTC
 <!--END_SECTION:waka--> 
 
 
