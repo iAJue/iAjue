@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 #### 我没有在摸鱼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C653%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C655%20hrs%2026%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-306%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2015%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 896.1 kB GitHub 存储空间 
  > 
-> 🏆 945 个贡献，在 2026 年
+> 🏆 949 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     636 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌆 白天                     940 commits         ██████████░░░░░░░░░░░░░░░   38.64 % 
-🌃 傍晚                     314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
+🌞 早晨                     639 commits         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+🌆 白天                     941 commits         ██████████░░░░░░░░░░░░░░░   38.61 % 
+🌃 傍晚                     314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-星期二                      348 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-星期三                      336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-星期四                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-星期五                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-星期六                      399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-星期日                      315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+星期一                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+星期二                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+星期三                      336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+星期四                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+星期五                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+星期六                      399 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+星期日                      315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
 ```
 
 
@@ -113,48 +113,50 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Vue                      1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-PHP                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Vue                      1 hr 30 mins        ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+Other                    1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+PHP                      53 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+JSON                     48 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🔥 编辑器: 
-VS Code                  4 hrs 2 mins        ████████████████████░░░░░   78.46 % 
-Claude Code              1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Codex Vscode             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+VS Code                  4 hrs 10 mins       ████████████████████░░░░░   78.20 % 
+Claude Code              1 hr 4 mins         █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
+Codex Vscode             4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 项目: 
-dfc_mp_wx                2 hrs 45 mins       █████████████░░░░░░░░░░░░   53.42 % 
-ThirdApi                 1 hr 21 mins        ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-Unknown Project          1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+dfc_mp_wx                2 hrs 45 mins       █████████████░░░░░░░░░░░░   51.62 % 
+ThirdApi                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Unknown Project          1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Sub2API-Dedicated        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 操作系统: 
-Mac                      5 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 48 mins (54.42%)
+⏱ AI Coding Time: 2 hrs 58 mins (55.96%)
 
 ✍️ 157 lines written by AI, 892 lines written by hand (14.97% AI-written)
 
-🔤 2,061,314 Input Tokens, 50,165 Output Tokens
+🔤 2,209,812 Input Tokens, 53,966 Output Tokens
 
-💵 $23.43 Estimated AI Cost This Week
+💵 $24.52 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 29 AI Prompts
+🧠 16 AI Sessions, 40 AI Prompts
 
 Fable                    241 lines           ████████████████████████░   97.18 % 
 GPT                      7 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 14.97% of written lines came from AI
-📝 Concise Prompter — average 485 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 374 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 85.64% of changed lines were hand-edited
 ```
 
@@ -171,7 +173,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-17 23:15:09 UTC
+ Last Updated on 2026-08-18 23:11:26 UTC
 <!--END_SECTION:waka--> 
 
 
