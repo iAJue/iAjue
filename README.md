@@ -72,15 +72,15 @@ Here are some ideas to get you started:
 #### 我没有在摸鱼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C658%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 我的 GitHub 数据** 
 
 > 📦  使用了 912.7 kB GitHub 存储空间 
  > 
-> 🏆 971 个贡献，在 2026 年
+> 🏆 974 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,20 +91,20 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     661 commits         ███████░░░░░░░░░░░░░░░░░░   26.88 % 
-🌆 白天                     941 commits         ██████████░░░░░░░░░░░░░░░   38.27 % 
-🌃 傍晚                     314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
+🌞 早晨                     662 commits         ███████░░░░░░░░░░░░░░░░░░   26.91 % 
+🌆 白天                     941 commits         ██████████░░░░░░░░░░░░░░░   38.25 % 
+🌃 傍晚                     314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌙 晚上                     543 commits         ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-星期二                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-星期三                      338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-星期四                      356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-星期五                      324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-星期六                      414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+星期一                      355 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+星期二                      353 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+星期三                      338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
+星期四                      356 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
+星期五                      324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+星期六                      414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 星期日                      320 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
 ```
 
@@ -113,49 +113,48 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-JavaScript               1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   34.80 % 
-Vue                      1 hr 8 mins         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
-HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Diff                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+JavaScript               1 hr 38 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
+Vue                      1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   29.48 % 
+HTML                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Diff                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🔥 编辑器: 
-Claude Code              2 hrs 34 mins       ███████████████░░░░░░░░░░   58.89 % 
-VS Code                  1 hr 46 mins        ██████████░░░░░░░░░░░░░░░   40.71 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Claude Code              2 hrs 32 mins       █████████████░░░░░░░░░░░░   53.60 % 
+VS Code                  1 hr 59 mins        ███████████░░░░░░░░░░░░░░   42.12 % 
+Codex Vscode             12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🐱‍💻 项目: 
-MoeKoeMusic              3 hrs 44 mins       █████████████████████░░░░   85.72 % 
-Unknown Project          26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Sub2API-Dedicated        10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+MoeKoeMusic              4 hrs 18 mins       ███████████████████████░░   90.67 % 
+Unknown Project          26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 💻 操作系统: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 36 mins (82.91%)
+⏱ AI Coding Time: 3 hrs 58 mins (83.76%)
 
-✍️ 55 lines written by AI, 32 lines written by hand (63.22% AI-written)
+✍️ 59 lines written by AI, 33 lines written by hand (64.13% AI-written)
 
-🔤 3,323,828 Input Tokens, 79,869 Output Tokens
+🔤 4,187,310 Input Tokens, 98,493 Output Tokens
 
-💵 $37.57 Estimated AI Cost This Week
+💵 $41.15 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 38 AI Prompts
+🧠 9 AI Sessions, 46 AI Prompts
 
-Fable                    58 lines            ██████████████████████░░░   87.88 % 
-Opus                     8 lines             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Fable                    58 lines            █████████████████████░░░░   82.86 % 
+Opus                     8 lines             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+GPT                      4 lines             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 63.22% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 67.96% of changed lines were hand-edited
+⚖️ Balanced with AI — 64.13% of written lines came from AI
+📚 Verbose Prompter — average 1,532 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 67.89% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -171,7 +170,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-24 23:00:16 UTC
+ Last Updated on 2026-08-25 22:46:48 UTC
 <!--END_SECTION:waka--> 
 
 
