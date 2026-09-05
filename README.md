@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 > 📦  使用了 912.7 kB GitHub 存储空间 
  > 
-> 🏆 988 个贡献，在 2026 年
+> 🏆 989 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,20 +91,20 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     670 commits         ███████░░░░░░░░░░░░░░░░░░   27.25 % 
-🌆 白天                     928 commits         █████████░░░░░░░░░░░░░░░░   37.74 % 
+🌞 早晨                     670 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌆 白天                     928 commits         █████████░░░░░░░░░░░░░░░░   37.72 % 
 🌃 傍晚                     316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-🌙 晚上                     545 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌙 晚上                     546 commits         ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+星期一                      345 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 星期二                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-星期三                      342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-星期四                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-星期五                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-星期六                      415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+星期三                      342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+星期四                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+星期五                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+星期六                      416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 星期日                      321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
 ```
 
@@ -113,46 +113,39 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-JavaScript               1 hr 44 mins        █████████████░░░░░░░░░░░░   50.29 % 
-Vue                      56 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
-JSON                     22 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Other                    17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
-JSON5                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript               29 mins             █████████████████████████   100.00 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 34 mins        ███████████░░░░░░░░░░░░░░   45.69 % 
-Codex Vscode             1 hr 31 mins        ███████████░░░░░░░░░░░░░░   44.01 % 
-Claude Code              21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Claude Code              21 mins             ██████████████████░░░░░░░   72.41 % 
+VS Code                  8 mins              ███████░░░░░░░░░░░░░░░░░░   27.59 % 
 
 🐱‍💻 项目: 
-dfc_mp_wx                2 hrs 58 mins       █████████████████████░░░░   85.78 % 
-MoeKoeMusic              29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+MoeKoeMusic              29 mins             █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 43 mins (78.91%)
+⏱ AI Coding Time: 28 mins (98.12%)
 
-✍️ 248 lines written by AI, 58 lines written by hand (81.05% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 2,365,272 Input Tokens, 134,954 Output Tokens
+🔤 79,627 Input Tokens, 2,280 Output Tokens
 
-💵 $27.92 Estimated AI Cost This Week
+💵 $0.57 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 29 AI Prompts
+🧠 1 AI Sessions, 7 AI Prompts
 
-GPT                      250 lines           █████████████████████████   100.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 81.05% of written lines came from AI
-📝 Concise Prompter — average 450 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 21.63% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 35 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -168,7 +161,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-04 20:57:58 UTC
+ Last Updated on 2026-09-05 20:35:51 UTC
 <!--END_SECTION:waka--> 
 
 
