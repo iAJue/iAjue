@@ -78,9 +78,9 @@ Here are some ideas to get you started:
 
 **🐱 我的 GitHub 数据** 
 
-> 📦  使用了 912.7 kB GitHub 存储空间 
+> 📦  使用了 922.3 kB GitHub 存储空间 
  > 
-> 🏆 991 个贡献，在 2026 年
+> 🏆 1,005 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     670 commits         ███████░░░░░░░░░░░░░░░░░░   27.21 % 
-🌆 白天                     928 commits         █████████░░░░░░░░░░░░░░░░   37.69 % 
-🌃 傍晚                     316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-🌙 晚上                     548 commits         ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+🌞 早晨                     679 commits         ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+🌆 白天                     932 commits         █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 傍晚                     316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+🌙 晚上                     549 commits         ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      346 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-星期二                      352 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-星期三                      342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-星期四                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-星期五                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-星期六                      416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-星期日                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+星期一                      346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+星期二                      370 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+星期三                      342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+星期四                      358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+星期五                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+星期六                      416 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
+星期日                      318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
 ```
 
 
@@ -113,22 +113,46 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-本周没有记录到任何活动
+Vue                      1 hr 6 mins         █████████████████░░░░░░░░   69.23 % 
+Markdown                 24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🔥 编辑器: 
-本周没有记录到任何活动
+VS Code                  1 hr 9 mins         ██████████████████░░░░░░░   71.87 % 
+Codex Vscode             25 mins             ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 
 🐱‍💻 项目: 
-本周没有记录到任何活动
+dfc_mp_wx                1 hr 7 mins         ██████████████████░░░░░░░   70.55 % 
+Unknown Project          24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+ThirdApi                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 
 💻 操作系统: 
-本周没有记录到任何活动
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 5 mins (67.8%)
+
+✍️ 267 lines written by AI, 126 lines written by hand (67.94% AI-written)
+
+🔤 371,283 Input Tokens, 18,531 Output Tokens
+
+💵 $2.97 Estimated AI Cost This Week
+
+🧠 8 AI Sessions, 23 AI Prompts
+
+Haiku                    144 lines           █████████████░░░░░░░░░░░░   53.93 % 
+GPT                      123 lines           ████████████░░░░░░░░░░░░░   46.07 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 67.94% of written lines came from AI
+📝 Concise Prompter — average 103 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 60.68% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -144,7 +168,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-07 21:42:48 UTC
+ Last Updated on 2026-09-08 21:21:48 UTC
 <!--END_SECTION:waka--> 
 
 
