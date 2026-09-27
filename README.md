@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 > 📦  使用了 924.1 kB GitHub 存储空间 
  > 
-> 🏆 1,032 个贡献，在 2026 年
+> 🏆 1,033 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,10 +91,10 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     684 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-🌆 白天                     932 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌞 早晨                     684 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌆 白天                     932 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
 🌃 傍晚                     316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-🌙 晚上                     569 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+🌙 晚上                     570 commits         ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
@@ -105,7 +105,7 @@ Here are some ideas to get you started:
 星期四                      361 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 星期五                      329 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 星期六                      426 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-星期日                      321 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+星期日                      322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 ```
 
 
@@ -113,28 +113,28 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Vue                      1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   39.83 % 
-Markdown                 52 mins             ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
-JavaScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-PHP                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
-HTML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Vue                      1 hr 20 mins        ███████████░░░░░░░░░░░░░░   42.60 % 
+JavaScript               43 mins             ██████░░░░░░░░░░░░░░░░░░░   22.77 % 
+Markdown                 42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
+PHP                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 编辑器: 
-VS Code                  2 hrs 28 mins       ██████████████████░░░░░░░   73.17 % 
-Codex Vscode             54 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+VS Code                  2 hrs 14 mins       ██████████████████░░░░░░░   71.31 % 
+Codex Vscode             54 mins             ███████░░░░░░░░░░░░░░░░░░   28.69 % 
 
 🐱‍💻 项目: 
-dfc_mp_wx                2 hrs 4 mins        ███████████████░░░░░░░░░░   61.37 % 
-MoeJueBlogAnniversaryGame1 hr 18 mins        ██████████░░░░░░░░░░░░░░░   38.63 % 
+dfc_mp_wx                2 hrs 4 mins        ████████████████░░░░░░░░░   65.64 % 
+MoeJueBlogAnniversaryGame1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   34.36 % 
 
 💻 操作系统: 
-Mac                      3 hrs 22 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 13 mins (36.31%)
+⏱ AI Coding Time: 1 hr 13 mins (38.83%)
 
 ✍️ 61 lines written by AI, 17 lines written by hand (78.21% AI-written)
 
@@ -150,7 +150,7 @@ GPT                      199 lines           ███████████�
 🤖 AI-Driven — 78.21% of written lines came from AI
 📝 Concise Prompter — average 292 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 17.77% of changed lines were hand-edited
+🚀 High AI Trust — 17.08% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -166,7 +166,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-26 21:25:18 UTC
+ Last Updated on 2026-09-27 21:33:38 UTC
 <!--END_SECTION:waka--> 
 
 
