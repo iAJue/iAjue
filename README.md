@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 #### 我没有在摸鱼
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C681%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C682%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-324%20hrs%2042%20mins-blue?style=flat)
 
@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 > 📦  使用了 932.4 kB GitHub 存储空间 
  > 
-> 🏆 1,097 个贡献，在 2026 年
+> 🏆 1,100 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,20 +91,20 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     698 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.30 % 
+🌞 早晨                     698 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.29 % 
 🌃 傍晚                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-🌙 晚上                     584 commits         ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
+🌙 晚上                     585 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      353 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-星期二                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+星期一                      354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
+星期二                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 星期三                      355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
 星期四                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-星期五                      333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-星期六                      428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+星期五                      333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+星期六                      428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 星期日                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 ```
 
@@ -113,32 +113,33 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 8 mins        ██████████████████████░░░   87.05 % 
-Vue                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 2 hrs 8 mins        █████████████████████░░░░   84.46 % 
+Vue                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 50 mins        ███████████████████░░░░░░   74.65 % 
-Codex Vscode             37 mins             ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
+VS Code                  1 hr 54 mins        ███████████████████░░░░░░   75.40 % 
+Codex Vscode             37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
 
 🐱‍💻 项目: 
-MoeJueBlogAnniversaryGame1 hr 35 mins        ████████████████░░░░░░░░░   64.77 % 
-test                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
-dfb_WeChat               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-MoeKoeMusic              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+MoeJueBlogAnniversaryGame1 hr 35 mins        ████████████████░░░░░░░░░   62.84 % 
+test                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
+dfb_WeChat               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+ThirdApi                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+MoeKoeMusic              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 操作系统: 
-Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (43.21%)
+⏱ AI Coding Time: 1 hr 3 mins (41.92%)
 
-✍️ 1,420 lines written by AI, 28 lines written by hand (98.07% AI-written)
+✍️ 1,420 lines written by AI, 29 lines written by hand (98.0% AI-written)
 
 🔤 810,582 Input Tokens, 60,222 Output Tokens
 
@@ -151,10 +152,10 @@ Codex-Vscode             201 lines           ████░░░░░░░�
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.07% of written lines came from AI
+🤖 AI-Driven — 98.0% of written lines came from AI
 📝 Concise Prompter — average 93 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.01% of changed lines were hand-edited
+🚀 High AI Trust — 5.2% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -170,7 +171,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-25 21:05:03 UTC
+ Last Updated on 2026-10-26 22:51:39 UTC
 <!--END_SECTION:waka--> 
 
 
