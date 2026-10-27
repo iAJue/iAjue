@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 > 📦  使用了 932.4 kB GitHub 存储空间 
  > 
-> 🏆 1,100 个贡献，在 2026 年
+> 🏆 1,101 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     698 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
-🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.29 % 
-🌃 傍晚                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+🌞 早晨                     699 commits         ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.27 % 
+🌃 傍晚                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
 🌙 晚上                     585 commits         ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-星期二                      394 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-星期三                      355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
-星期四                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+星期一                      354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
+星期二                      395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+星期三                      355 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+星期四                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 星期五                      333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
 星期六                      428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-星期日                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+星期日                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
 ```
 
 
@@ -113,49 +113,45 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Markdown                 2 hrs 8 mins        █████████████████████░░░░   84.46 % 
-Vue                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JavaScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-HTML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Markdown                 32 mins             ██████████████░░░░░░░░░░░   57.85 % 
+Vue                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🔥 编辑器: 
-VS Code                  1 hr 54 mins        ███████████████████░░░░░░   75.40 % 
-Codex Vscode             37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+Codex Vscode             31 mins             ██████████████░░░░░░░░░░░   55.68 % 
+VS Code                  24 mins             ███████████░░░░░░░░░░░░░░   44.32 % 
 
 🐱‍💻 项目: 
-MoeJueBlogAnniversaryGame1 hr 35 mins        ████████████████░░░░░░░░░   62.84 % 
-test                     38 mins             ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-dfb_WeChat               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-ThirdApi                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-MoeKoeMusic              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+test                     38 mins             █████████████████░░░░░░░░   68.04 % 
+dfb_WeChat               13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+ThirdApi                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 💻 操作系统: 
-Mac                      2 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      56 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (41.92%)
+⏱ AI Coding Time: 35 mins (63.68%)
 
-✍️ 1,420 lines written by AI, 29 lines written by hand (98.0% AI-written)
+✍️ 1,213 lines written by AI, 6 lines written by hand (99.51% AI-written)
 
-🔤 810,582 Input Tokens, 60,222 Output Tokens
+🔤 201,997 Input Tokens, 34,761 Output Tokens
 
-💵 $9.57 Estimated AI Cost This Week
+💵 $0.13 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 2 AI Sessions, 7 AI Prompts
 
-GPT                      1,222 lines         █████████████████████░░░░   85.87 % 
-Codex-Vscode             201 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      1,216 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.0% of written lines came from AI
-📝 Concise Prompter — average 93 characters per prompt
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 89 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.2% of changed lines were hand-edited
+🚀 High AI Trust — 1.78% of changed lines were hand-edited
 ```
 
 **我最常使用 JavaScript** 
@@ -171,7 +167,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-26 22:51:39 UTC
+ Last Updated on 2026-10-27 22:30:56 UTC
 <!--END_SECTION:waka--> 
 
 
