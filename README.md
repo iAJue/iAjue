@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 
 > 📦  使用了 932.4 kB GitHub 存储空间 
  > 
-> 🏆 1,102 个贡献，在 2026 年
+> 🏆 1,104 个贡献，在 2026 年
  > 
 > 💼 开放招聘
  > 
@@ -91,21 +91,21 @@ Here are some ideas to get you started:
 **我是早鸟 🐤** 
 
 ```text
-🌞 早晨                     700 commits         ███████░░░░░░░░░░░░░░░░░░   27.40 % 
-🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.26 % 
-🌃 傍晚                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-🌙 晚上                     585 commits         ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+🌞 早晨                     701 commits         ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌆 白天                     952 commits         █████████░░░░░░░░░░░░░░░░   37.25 % 
+🌃 傍晚                     318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+🌙 晚上                     585 commits         ██████░░░░░░░░░░░░░░░░░░░   22.89 % 
 ```
 📅 **星期六 时的我最有干劲** 
 
 ```text
-星期一                      354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-星期二                      395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+星期一                      354 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+星期二                      395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 星期三                      356 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-星期四                      363 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+星期四                      364 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
 星期五                      333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
-星期六                      428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-星期日                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+星期六                      428 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+星期日                      326 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
 ```
 
 
@@ -113,45 +113,23 @@ Here are some ideas to get you started:
 
 ```text
 💬 编程语言: 
-Markdown                 32 mins             ██████████████░░░░░░░░░░░   57.85 % 
-Vue                      11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-HTML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+HTML                     3 mins              ███████████████████░░░░░░   76.75 % 
+PHP                      1 min               ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
 
 🔥 编辑器: 
-Codex Vscode             31 mins             ██████████████░░░░░░░░░░░   55.68 % 
-VS Code                  24 mins             ███████████░░░░░░░░░░░░░░   44.32 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 项目: 
-test                     38 mins             █████████████████░░░░░░░░   68.04 % 
-dfb_WeChat               13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-ThirdApi                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+ThirdApi                 4 mins              █████████████████████████   100.00 % 
 
 💻 操作系统: 
-Mac                      56 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (63.68%)
-
-✍️ 1,213 lines written by AI, 6 lines written by hand (99.51% AI-written)
-
-🔤 201,997 Input Tokens, 34,761 Output Tokens
-
-💵 $0.13 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 7 AI Prompts
-
-GPT                      1,216 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.51% of written lines came from AI
-📝 Concise Prompter — average 89 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.78% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **我最常使用 JavaScript** 
@@ -167,7 +145,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-28 22:47:41 UTC
+ Last Updated on 2026-10-29 22:56:59 UTC
 <!--END_SECTION:waka--> 
 
 
